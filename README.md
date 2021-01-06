@@ -5,5 +5,5 @@
 - [x] modul gyroscope MPU 6050
 - [x] modul converter digital->analog
 
-#### author
+#### develop
 - <a href=https://me-danuandrean.github.io>Danu andrean</a>
